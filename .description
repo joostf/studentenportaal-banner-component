@@ -1,0 +1,23 @@
+---
+title: "descriptive title"
+description: "short description (280 chars)"
+semester: 1-4
+taskclass: "taskclass name"
+support-level: 1-5
+behavior-criteria:
+  collaboration: 0-6
+  learning-capacity: 0-6
+  problem-solving: 0-6
+  act-methodically: 0-6
+  communicating: 0-6
+collaborators: 1-8
+tags:
+  - list
+  - of
+  - usefull
+  - tags
+burn-points: 1-144
+---
+
+# Descriptive title
+Try to provide a clear description of the task. You can use full markdown syntaxis and links but please don't use images.
